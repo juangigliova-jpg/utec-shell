@@ -17,3 +17,4 @@
 - 14-copy_html: copies HTML files to the parent directory only if they are new or newer.
 - 15-lets_move: moves all files starting with an uppercase letter to /tmp/u.
 - 16-clean_emacs: deletes all files ending with ~ in the current directory.
+- 17-tree: creates the directories welcome/, welcome/to/ and welcome/to/school.
