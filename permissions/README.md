@@ -6,3 +6,4 @@
 3-new_owner: cambia el propietario de hello a betty
 4-empty: crea un archivo vacio llamado hello
 5-execute: agrega permiso de ejecucion al propietario de hello
+6-multiple_permissions: ejecucion a propietario y grupo, lectura a otros en hello
