@@ -12,3 +12,4 @@
 9-John_Doe: establece el modo de hello en rwxr-x-wx
 10-mirror_permissions: copia el modo de olleh a hello
 11-directories_permissions: agrega ejecucion a todos en los subdirectorios
+12-directory_permissions: crea my_dir con permisos 751
