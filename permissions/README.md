@@ -10,3 +10,4 @@
 7-everybody: ejecucion a todos en hello
 8-James_Bond: sin permisos a propietario y grupo, todos a otros en hello
 9-John_Doe: establece el modo de hello en rwxr-x-wx
+10-mirror_permissions: copia el modo de olleh a hello
